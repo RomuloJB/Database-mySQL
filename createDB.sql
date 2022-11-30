@@ -1,0 +1,12 @@
+###MySQL7
+
+
+###CRIAÇÃO DO BANCO DE DADOS
+
+CREATE DATABASE db_romulo DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+
+###LISTA DE BANCOS DE DADOS
+show databases;
+
+###ENTRAR DENTRO DO BANCO DE DADOS DESEJADO
+use db_romulo;
